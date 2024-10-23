@@ -3,10 +3,7 @@ font-size: 80px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 background-color: #e74c0e;}
 
-body{
-     background-image: url("/images/Daniel.jpg");
-     background-repeat: no-repeat;
-     background-size:100vw 100vh;}
+body{background-color: rgb(83, 83, 81);}
 a {
    background-color: #2008fd; /* Green */
     border:blue;
