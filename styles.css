@@ -16,4 +16,8 @@ img{
    width: max-content;
 
 }
-  
+
+.img-thumbnail{
+    height: 80px;
+    width: 80px;
+}
