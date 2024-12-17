@@ -7,17 +7,51 @@ body{
 
   
 
-img{
-    height: 600px;
-    width: 1200px;
-}
+
+   
+
  hello{
    height: max-content;
    width: max-content;
 
 }
 
-.img-thumbnail{
-    height: 80px;
+
+.new-img{
     width: 80px;
+    height: 80px;
+   
+    float:left;
+   
+    
+    
+  
+
+
+    
 }
+.new-imgh{
+    width: 80px;
+    height: 80px;
+   
+   
+    float: left;
+   
+    margin: 10px;
+   
+
+
+}
+.id{
+    width: 80px;
+    height:80px;
+}
+.imgh{
+     width: 1200;
+
+}
+
+
+
+
+
